@@ -30,3 +30,30 @@ The output contains N lines containing strings after the sorting operation is pe
 Sample Output\
 ccccaaabd\
 xxyyz
+\
+\
+Screenshots\
+\
+All tests\
+![Tests](https://github.com/alex-taglatam/InsperityPrj/blob/b0941e1f805dc13fa58a5738e2694b239137870d/screens/1.PNG)
+\
+Case 1 data\
+![Tests](https://github.com/alex-taglatam/InsperityPrj/blob/b0941e1f805dc13fa58a5738e2694b239137870d/screens/2.PNG)
+\
+Case 2 data\
+![Tests](https://github.com/alex-taglatam/InsperityPrj/blob/b0941e1f805dc13fa58a5738e2694b239137870d/screens/2.PNG)
+\
+Case 3 data\
+![Tests](https://github.com/alex-taglatam/InsperityPrj/blob/b0941e1f805dc13fa58a5738e2694b239137870d/screens/3.PNG)
+\
+Case 4 data\
+![Tests](https://github.com/alex-taglatam/InsperityPrj/blob/b0941e1f805dc13fa58a5738e2694b239137870d/screens/4.PNG)
+\
+Case 5 data\
+![Tests](https://github.com/alex-taglatam/InsperityPrj/blob/b0941e1f805dc13fa58a5738e2694b239137870d/screens/5.PNG)
+\
+Case 6 data\
+![Tests](https://github.com/alex-taglatam/InsperityPrj/blob/b0941e1f805dc13fa58a5738e2694b239137870d/screens/6.PNG)
+\
+Case 6 data\
+![Tests](https://github.com/alex-taglatam/InsperityPrj/blob/b0941e1f805dc13fa58a5738e2694b239137870d/screens/7.PNG)
