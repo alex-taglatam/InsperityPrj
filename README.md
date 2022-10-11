@@ -1,4 +1,7 @@
 # InsperityPrj
+
+Resolution of the required work.
+
 String Manipulation: Sort of String
 You are given N strings.
 For each string, perform the following sorting operations:
