@@ -16,13 +16,18 @@ largest letter.
 
 Input Format
 The first line contains N, denoting the number of strings.
+
 Next N lines contain strings on which sorting operation has to be performed.
+
 Sample Input
 2 -- denotes N
 abaccadcc -- denotes a string
 xyzxy -- denotes a string
+
 Output Format
+
 The output contains N lines containing strings after the sorting operation is performed.
+
 Sample Output
 ccccaaabd
 xxyyz
