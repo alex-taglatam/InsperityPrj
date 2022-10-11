@@ -1,12 +1,15 @@
 ﻿using InsperityLibrary;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using static System.Console;
 
 namespace Insperity
 {
     class Program
     {
+
         /// <summary>
         /// main app's entry point
         /// </summary>
